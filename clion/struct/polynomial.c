@@ -1,6 +1,6 @@
 #include <stdio.h>
-#include <malloc.h>
 #include <stdarg.h>
+#include <stdlib.h>
 
 typedef struct PolyNode *Polynomial;
 struct PolyNode {
